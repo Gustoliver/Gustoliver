@@ -42,9 +42,7 @@ Aqui você pode ver o resumo das minhas contribuições e as linguagens que mais
 
 ### 🚀 Projetos em Destaque
 
-* **Inteligência Artificial & Dados:** Desenvolvimento de modelos preditivos e estruturação de Data Lakes.
-* **Game Design Systems:** Pesquisa e desenvolvimento de balanceamento matemático para sistemas de RPG complexos.
-* **Automação:** Soluções de RPA e otimização de processos operacionais.
+* **Sistema de Apoio à Agricultura Digital:** O projeto é um sistema que integra Python e R para gerenciar o plantio, calcular insumos e analisar dados climáticos para otimizar a produção de soja e cana-de-açúcar.
 
 ---
 
