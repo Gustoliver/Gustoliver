@@ -35,7 +35,7 @@ Aqui você pode ver o resumo das minhas contribuições e as linguagens que mais
 
 <p align="left">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Gustoliver&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustoliver&layout=compact&theme=github_dark&hide=html,css" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustoliver&layout=compact&theme=github_dark&hide=" />
 </p>
 
 ---
