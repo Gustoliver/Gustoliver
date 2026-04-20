@@ -34,8 +34,8 @@ Tenho 23 anos e sou apaixonado por transformar dados complexos em soluções pr�
 Aqui você pode ver o resumo das minhas contribuições e as linguagens que mais utilizo:
 
 <p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Gustoliver&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Gustoliver&show_icons=true&theme=github_dark" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Gustoliver&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustoliver&layout=compact&theme=holi&hide=" />
 </p>
 
 ---
